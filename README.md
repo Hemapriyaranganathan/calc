@@ -156,10 +156,12 @@ h1{
 }
 ```
 ## OUTPUT:
-![output](./out.png)
+![image](https://user-images.githubusercontent.com/119476111/213902319-7271e508-59ce-426e-954b-13416d5fc743.png)
+
 
 ## HTML VALIDATOR:
-![HTML VALIDATOR](./valid.png)
+![image](https://user-images.githubusercontent.com/119476111/213902352-5743cde9-5c7d-4365-a2f6-3b790001370a.png)
+
 
 ## RESULT:
 The Program for designing a simple calculator using JavaSceript is excuted successfully.
